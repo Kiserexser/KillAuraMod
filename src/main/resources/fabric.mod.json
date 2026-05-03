@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "killauraultra",
+  "version": "1.0.0",
+  "name": "KillAura Ultimate",
+  "entrypoints": {
+    "client": ["com.swill.killaura.KillAuraMod"]
+  },
+  "depends": {
+    "minecraft": "1.20.1"
+  }
+}
